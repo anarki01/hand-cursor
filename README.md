@@ -1,7 +1,7 @@
 # Hand Cursor
 An application that allows you to use only your hands to control the cursor of your computer, as well as basic functions such as clicking, right clicking and dragging.
 
-Demo:
+### Demo:
 
 
 https://user-images.githubusercontent.com/71543482/179615458-229844f9-60a4-42df-829a-2d7e454e6548.mp4
